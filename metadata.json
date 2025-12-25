@@ -1,0 +1,5 @@
+{
+  "name": "SecurePass Check",
+  "description": "A privacy-first, client-side password strength evaluator that provides real-time feedback and security analysis without ever sending data online.",
+  "requestFramePermissions": []
+}
