@@ -1,7 +1,7 @@
 <div align="center"> <h1>🔐 Secure Pass Check</h1> </div>
-
+<div align="center">
 <img width="361" height="660" alt="image" src="https://github.com/user-attachments/assets/e61a4322-ba10-464c-b6d3-ddf7badcd23d" />
-
+</div>
 
 A small, privacy-first password strength checker that gives real-time feedback as you type.
 
